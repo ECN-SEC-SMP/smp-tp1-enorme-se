@@ -1,3 +1,9 @@
+/*
+Baptiste DE PAUL
+02/10/2025
+SMP_TP1_exo1
+*/
+
 #include <iostream>
 
 using namespace std; 
